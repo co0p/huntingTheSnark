@@ -1,0 +1,25 @@
+.im-centered { margin: auto; max-width: 800px;}
+
+
+.heading {
+  text-align: center;
+}
+
+.heading-text {
+  font-family: 'Amatic SC', cursive;
+}
+
+.login-text {
+  font-family: 'Bilbo', cursive;
+}
+
+
+.login-form {
+  width:250px;
+
+}
+
+.login-field {
+  font-size: 1.2em;
+  padding:10px;
+}
